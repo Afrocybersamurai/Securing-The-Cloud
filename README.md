@@ -7,9 +7,7 @@
 ### Objectives: 
 
 - Regulatory Compliance (NIST 800-53, PCI DSS, CIS) and MDC Recommendations
-
 - Azure Private Link & Firewall for Resources
-
 - Run SECURE Environment for 24 Hours and Capture Analytics
 
 ### Environments and Technologies Used:
