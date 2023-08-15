@@ -1,6 +1,6 @@
 # Securing The Cloud Configuration
 
-## We are simply going to reduce the risks as much as possible by the following sections: 
+##In the following sections we will reduce the risks as much as possible: 
 
 <div>
 
